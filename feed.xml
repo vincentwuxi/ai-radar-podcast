@@ -8,7 +8,7 @@
     <link>https://vincentwuxi.github.io/ai-radar-podcast</link>
     <language>zh-CN</language>
     <copyright>© 2026 AI产品情报站</copyright>
-    <lastBuildDate>Sun, 11 Oct 2026 12:24:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 04:33:02 +0000</lastBuildDate>
     <generator>ai-radar-podcast feed builder</generator>
     <itunes:author>AI产品情报站</itunes:author>
     <itunes:summary>每天 8 条全球 AI 产品动态深度解读：变化、用户、商业、竞争、借鉴、风险、德国/EU 可用性七维分析。小林小夏双人对谈，astra 专家解读。</itunes:summary>
@@ -27,6 +27,15 @@
       <title>AI产品情报站</title>
       <link>https://vincentwuxi.github.io/ai-radar-podcast</link>
     </image>
+    <item>
+      <title>AI情报站深读 · 2026-10-12</title>
+      <description>astra专家深度解读2026-10-12的AI产品动态，小林小夏对谈。</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">b08fc348f200bb2cfcbf2a5d82bf3d44@ai-radar</guid>
+      <enclosure url="https://vincentwuxi.github.io/ai-radar-podcast/episodes/AI情报站astra深读-2026-10-12.mp3" length="6311240" type="audio/mpeg"/>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI情报站深读 · 2026-10-11</title>
       <description>astra专家深度解读2026-10-11的AI产品动态，小林小夏对谈。</description>
